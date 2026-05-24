@@ -4,17 +4,6 @@
 
 ---
 
-## Table of Contents
-
-- [Overview](#-overview)
-- [Dataset](#-dataset)
-- [Project Workflow](#-project-workflow)
-- [Models & Results](#-models--results)
-- [Visualizations](#-visualizations)
-- [Libraries Used](#-libraries-used)
-
----
-
 ## Overview
 
 Medical insurance costs vary significantly based on individual factors such as age, BMI, smoking habits, and region. This project builds and compares two machine learning models to accurately **predict insurance charges** based on these features.
