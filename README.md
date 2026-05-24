@@ -1,9 +1,4 @@
-# 🏥 Medical Insurance Cost Prediction
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=for-the-badge&logo=pandas)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
+# Medical Insurance Cost Prediction
 
 > Predicting medical insurance charges using Machine Learning — comparing **Linear Regression** and **Random Forest Regressor**.
 
